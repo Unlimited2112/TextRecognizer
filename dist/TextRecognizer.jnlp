@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="TextRecognizer.jnlp">
+  <information>
+    <title>TextRecognizer</title>
+    <vendor>Alexs</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="TextRecognizer.jar" size="65922" download="eager" />
+    <jar href="lib\commons-beanutils-1.9.2.jar" size="233857" download="eager" />
+    <jar href="lib\commons-io-2.5.jar" size="208700" download="eager" />
+    <jar href="lib\commons-logging-1.2.jar" size="61829" download="eager" />
+    <jar href="lib\ghost4j-1.0.1.jar" size="180370" download="eager" />
+    <jar href="lib\hamcrest-core-1.3.jar" size="45280" download="eager" />
+    <jar href="lib\itext-2.1.7.jar" size="1130070" download="eager" />
+    <jar href="lib\jai-imageio-core-1.3.1.jar" size="602022" download="eager" />
+    <jar href="lib\jna-4.1.0.jar" size="914597" download="eager" />
+    <jar href="lib\jul-to-slf4j-1.7.21.jar" size="4597" download="eager" />
+    <jar href="lib\junit-4.12.jar" size="316791" download="eager" />
+    <jar href="lib\lept4j-1.2.2.jar" size="4959217" download="eager" />
+    <jar href="lib\log4j-1.2.17.jar" size="489883" download="eager" />
+    <jar href="lib\log4j-over-slf4j-1.7.21.jar" size="23646" download="eager" />
+    <jar href="lib\logback-classic-1.1.7.jar" size="304075" download="eager" />
+    <jar href="lib\logback-core-1.1.7.jar" size="470782" download="eager" />
+    <jar href="lib\rococoa-core-0.5.jar" size="100686" download="eager" />
+    <jar href="lib\slf4j-api-1.7.21.jar" size="41071" download="eager" />
+    <jar href="lib\xmlgraphics-commons-1.5.jar" size="601866" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="textrecognizer.TextRecognizer"  name="TextRecognizer" />
+  <update check="always"/>
+</jnlp>
