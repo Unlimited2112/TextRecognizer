@@ -3,7 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/TextRecognizer/src/net/sourceforge/tess4j/util/LoadLibs.java</file>
+            <file>file:/D:/prog/java/TextRecognizer/src/textrecognizer/FXMLDocumentController.java</file>
+            <file>file:/D:/prog/java/TextRecognizer/src/com/recognition/software/jdeskew/ImageDeskew.java</file>
+            <file>file:/D:/prog/java/TextRecognizer/src/textrecognizer/FXMLDocument.fxml</file>
         </group>
     </open-files>
 </project-private>
